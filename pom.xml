@@ -11,8 +11,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>SpringBootCRUD-H2Databas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootCRUD-H2Databas</name>
-	<description>Email Service project for Spring Boot</description>
+	<name>Code-Challenge</name>
+	<description>Code Challenge</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
