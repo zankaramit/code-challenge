@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>SpringBootCRUD-H2Databas</artifactId>
+	<artifactId>Code-Challenge<</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Code-Challenge</name>
 	<description>Code Challenge</description>
